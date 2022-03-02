@@ -7,4 +7,9 @@ Git is free software
 777
 888
 加分支
+<<<<<<< HEAD
 master
+=======
+新分支呀
+>>>>>>> featurel
+修改后保存
